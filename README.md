@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 
-![alt-text](https://github.com/SeemaIsharwal/SeemaIsharwal/blob/main/Untitled%20design.gif)
+![alt-text](https://github.com/SeemaIsharwal/SeemaIsharwal/blob/main/B.Tech%20IT.gif)
 

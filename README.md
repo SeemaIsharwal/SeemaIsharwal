@@ -5,9 +5,15 @@ I am Seema, a junior currently pursuing my B.Tech degree in **Information Techno
 
 - 📫 Reach out to me at **seema.032002@gmail.com**
 
-- * My primary coding and problem solving language: C++
+-  My primary coding and problem solving language: C++
 
-- I give back to the community I have gained so much from. 
+- I am working on UN Sustainable Development Goals. 
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeemaIsharwal&show_icons=true&theme=radical)
+
+<!---[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SeemaIsharwal&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) --->
 
 
 <h3 align="left">Connect with me:</h3>

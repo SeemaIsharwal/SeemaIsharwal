@@ -1,6 +1,6 @@
 ![alt-text](https://github.com/SeemaIsharwal/SeemaIsharwal/blob/main/B.Tech%20IT.gif)
 
-I am Seema, a pre-final year student currently pursuing my B.Tech degree in **Information Technology from Indira Gandhi Delhi Technical University For Women**. 
+I am Seema, a final year student currently pursuing my B.Tech degree in **Information Technology from Indira Gandhi Delhi Technical University For Women**. 
 - 🌱 I’m currently learning **UI/UX Designing**
 
 - 🌱 I’m proficient in **HTML, CSS & JavaScript**
